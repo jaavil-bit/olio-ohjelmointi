@@ -1,0 +1,7 @@
+C:/olio-ohjelmointi/h2b/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/h2b.dir
+C:/olio-ohjelmointi/h2b/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/olio-ohjelmointi/h2b/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/olio-ohjelmointi/h2b/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/olio-ohjelmointi/h2b/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/olio-ohjelmointi/h2b/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/olio-ohjelmointi/h2b/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
