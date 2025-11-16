@@ -8,10 +8,10 @@ using namespace std;
 class Car
 {
 public:
-    // Konstruktori
+
     Car(const string &brand, const string &model, int yearModel);
 
-    // Tulostusmetodi
+
     void printData() const;
 
 private:
@@ -20,4 +20,4 @@ private:
     int yearModel;
 };
 
-#endif // CAR_H
+#endif
